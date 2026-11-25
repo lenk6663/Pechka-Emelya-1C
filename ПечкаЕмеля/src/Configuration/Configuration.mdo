@@ -3,7 +3,7 @@
   <name>ПечкаЕмеля</name>
   <synonym>
     <key>ru</key>
-    <value>Печка емеля</value>
+    <value>Печка Емеля</value>
   </synonym>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="cb27e03a-0aa1-4f88-b009-1da892cfe0d5"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="106b81de-5e3e-4253-be3f-1b0ccbb93edf"/>
@@ -39,4 +39,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.ИнформацияОПредприятии</subsystems>
 </mdclass:Configuration>
