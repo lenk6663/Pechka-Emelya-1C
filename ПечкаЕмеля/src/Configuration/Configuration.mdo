@@ -44,4 +44,7 @@
   <constants>Constant.ИННКПППредприятия</constants>
   <constants>Constant.АдресПредприятия</constants>
   <commonForms>CommonForm.СведенияОПредприятии</commonForms>
+  <catalogs>Catalog.ПодразделенияОрганизации</catalogs>
+  <catalogs>Catalog.Маршруты</catalogs>
+  <catalogs>Catalog.Клиенты</catalogs>
 </mdclass:Configuration>

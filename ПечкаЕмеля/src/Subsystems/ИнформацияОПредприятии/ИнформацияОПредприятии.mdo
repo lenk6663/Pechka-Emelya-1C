@@ -11,4 +11,7 @@
   <content>Constant.ИННКПППредприятия</content>
   <content>Constant.АдресПредприятия</content>
   <content>CommonForm.СведенияОПредприятии</content>
+  <content>Catalog.ПодразделенияОрганизации</content>
+  <content>Catalog.Маршруты</content>
+  <content>Catalog.Клиенты</content>
 </mdclass:Subsystem>
