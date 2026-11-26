@@ -48,6 +48,7 @@
   <catalogs>Catalog.Маршруты</catalogs>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.ПродукцияИМатериалы</catalogs>
+  <catalogs>Catalog.ТранспортныеСредства</catalogs>
   <enums>Enum.ВидыНоменклатуры</enums>
   <enums>Enum.ЕдиницыИзмерения</enums>
 </mdclass:Configuration>

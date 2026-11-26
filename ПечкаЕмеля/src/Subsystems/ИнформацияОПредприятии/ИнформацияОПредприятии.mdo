@@ -17,4 +17,5 @@
   <content>Enum.ВидыНоменклатуры</content>
   <content>Enum.ЕдиницыИзмерения</content>
   <content>Catalog.ПродукцияИМатериалы</content>
+  <content>Catalog.ТранспортныеСредства</content>
 </mdclass:Subsystem>
