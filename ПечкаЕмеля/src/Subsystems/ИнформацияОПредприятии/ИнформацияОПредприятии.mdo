@@ -14,4 +14,7 @@
   <content>Catalog.ПодразделенияОрганизации</content>
   <content>Catalog.Маршруты</content>
   <content>Catalog.Клиенты</content>
+  <content>Enum.ВидыНоменклатуры</content>
+  <content>Enum.ЕдиницыИзмерения</content>
+  <content>Catalog.ПродукцияИМатериалы</content>
 </mdclass:Subsystem>
