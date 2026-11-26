@@ -47,4 +47,7 @@
   <catalogs>Catalog.ПодразделенияОрганизации</catalogs>
   <catalogs>Catalog.Маршруты</catalogs>
   <catalogs>Catalog.Клиенты</catalogs>
+  <catalogs>Catalog.ПродукцияИМатериалы</catalogs>
+  <enums>Enum.ВидыНоменклатуры</enums>
+  <enums>Enum.ЕдиницыИзмерения</enums>
 </mdclass:Configuration>
