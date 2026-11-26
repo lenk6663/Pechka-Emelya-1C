@@ -40,4 +40,8 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.ИнформацияОПредприятии</subsystems>
+  <constants>Constant.НаименованиеПредприятия</constants>
+  <constants>Constant.ИННКПППредприятия</constants>
+  <constants>Constant.АдресПредприятия</constants>
+  <commonForms>CommonForm.СведенияОПредприятии</commonForms>
 </mdclass:Configuration>
