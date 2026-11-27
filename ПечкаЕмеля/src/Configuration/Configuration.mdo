@@ -60,4 +60,5 @@
   <enums>Enum.ВидыНоменклатуры</enums>
   <enums>Enum.ЕдиницыИзмерения</enums>
   <enums>Enum.УровниДоступа</enums>
+  <informationRegisters>InformationRegister.ЦеныПродукции</informationRegisters>
 </mdclass:Configuration>

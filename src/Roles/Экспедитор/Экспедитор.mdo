@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8270dc8e-baf7-543f-9a30-969918b94209">
-  <name>Экспедитор</name>
-  <synonym>
-    <key>ru</key>
-    <value>Экспедитор</value>
-  </synonym>
-</mdclass:Role>

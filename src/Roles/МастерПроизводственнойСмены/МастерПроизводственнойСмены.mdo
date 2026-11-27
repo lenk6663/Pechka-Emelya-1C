@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="08264d27-ff53-5a2b-aa2b-4ed907fa6362">
-  <name>МастерПроизводственнойСмены</name>
-  <synonym>
-    <key>ru</key>
-    <value>Мастер производственной смены</value>
-  </synonym>
-</mdclass:Role>
