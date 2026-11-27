@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6c6cae9e-19c2-5347-8080-4b599fb05ede">
+  <producedTypes>
+    <refType typeId="16205953-afb6-524b-a623-4609f08f1cee" valueTypeId="7c012eca-4b6b-56d6-b7d2-d7d75fdac365"/>
+    <listType typeId="09147705-a3aa-5af9-8a61-9b19517907fd" valueTypeId="90e07b89-faa3-50dc-9fed-792b1866ce29"/>
+    <managerType typeId="d5b2a5cc-d86e-5349-90bc-befd24c5e0bb" valueTypeId="e7a8f751-61fd-5cba-91d4-bae07fbf59fc"/>
+  </producedTypes>
+  <name>УровниДоступа</name>
+  <synonym>
+    <key>ru</key>
+    <value>Уровни доступа</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="0f6dfd4f-3216-5359-9d4b-14253033c42b">
+    <name>Администратор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Администратор</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="6a142092-85d0-5504-9446-0339a68daf78">
+    <name>МенеджерЗаказов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Менеджер заказов</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="fa8a8843-8188-52d7-8129-0e0512cfd55e">
+    <name>Технолог</name>
+    <synonym>
+      <key>ru</key>
+      <value>Технолог</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="c911f8a7-13f5-5bb2-9bb7-0c93e193230b">
+    <name>МастерПроизводственнойСмены</name>
+    <synonym>
+      <key>ru</key>
+      <value>Мастер производственной смены</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="bdc32517-33da-5a86-bfe2-6528c1890e53">
+    <name>Бухгалтер</name>
+    <synonym>
+      <key>ru</key>
+      <value>Бухгалтер</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="a25daedc-828d-5218-9bba-daea8d68fe05">
+    <name>Экспедитор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Экспедитор</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

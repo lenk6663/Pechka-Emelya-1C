@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ea9318f7-e053-5925-981c-00109c730ffe">
+  <producedTypes>
+    <valueManagerType typeId="44ba1109-027d-5dd4-ba08-722289fe3584" valueTypeId="3e025a52-f9c6-52c1-8986-7a2dfae2f382"/>
+    <managerType typeId="4d79775a-a40b-5e88-b797-6f4b2a4005b9" valueTypeId="4d64c3ee-d9a3-5a73-95a7-330c76424247"/>
+    <valueKeyType typeId="59df7445-fd72-5c07-830c-47f620a2eee1" valueTypeId="77e44d32-1307-547f-912d-3987473e6e6e"/>
+  </producedTypes>
+  <name>АдресПредприятия</name>
+  <synonym>
+    <key>ru</key>
+    <value>Адрес хлебозавода</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>250</length>
+    </stringQualifiers>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
