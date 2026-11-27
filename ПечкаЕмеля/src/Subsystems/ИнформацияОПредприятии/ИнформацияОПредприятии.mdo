@@ -18,4 +18,7 @@
   <content>Enum.ЕдиницыИзмерения</content>
   <content>Catalog.ПродукцияИМатериалы</content>
   <content>Catalog.ТранспортныеСредства</content>
+  <content>Enum.УровниДоступа</content>
+  <content>Catalog.Сотрудники</content>
+  <content>CommonModule.РаботаСПользователями</content>
 </mdclass:Subsystem>

@@ -40,6 +40,13 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.ИнформацияОПредприятии</subsystems>
+  <roles>Role.Администратор</roles>
+  <roles>Role.МенеджерЗаказов</roles>
+  <roles>Role.Технолог</roles>
+  <roles>Role.МастерПроизводственнойСмены</roles>
+  <roles>Role.Бухгалтер</roles>
+  <roles>Role.Экспедитор</roles>
+  <commonModules>CommonModule.РаботаСПользователями</commonModules>
   <constants>Constant.НаименованиеПредприятия</constants>
   <constants>Constant.ИННКПППредприятия</constants>
   <constants>Constant.АдресПредприятия</constants>
@@ -49,6 +56,8 @@
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.ПродукцияИМатериалы</catalogs>
   <catalogs>Catalog.ТранспортныеСредства</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
   <enums>Enum.ВидыНоменклатуры</enums>
   <enums>Enum.ЕдиницыИзмерения</enums>
+  <enums>Enum.УровниДоступа</enums>
 </mdclass:Configuration>
