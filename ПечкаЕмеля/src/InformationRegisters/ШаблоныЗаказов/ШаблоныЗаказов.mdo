@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e0bae78f-acf8-5d91-bb8f-1dea191d66a4">
+  <producedTypes>
+    <selectionType typeId="ace865a2-867d-54c2-a187-856f33f163ea" valueTypeId="541e3ae8-ac0e-5844-a88c-518e09ec0c13"/>
+    <listType typeId="73fa8bf0-5978-5f23-acd0-8c8540d23e7f" valueTypeId="83766c39-ea08-5f58-b10d-6c7be3db916f"/>
+    <managerType typeId="4396e639-4206-5fa9-bd8c-46eb3d4efdf7" valueTypeId="5e08fed9-fea4-5f2e-80ee-feaa90e459d6"/>
+    <recordSetType typeId="2ec8e771-31da-571d-930f-90d570e78caa" valueTypeId="bae6f7ae-18bf-544d-97a6-c6df985fabf4"/>
+    <recordKeyType typeId="b3a131b8-6897-5fdc-b9be-b2d0a7e427a7" valueTypeId="8270164d-1ae2-5ab3-a0bb-c953f99cafec"/>
+    <recordType typeId="dc1840d7-bc65-5fb0-acb4-814fa63f6522" valueTypeId="3f6f0ddc-e1d3-5a21-8c11-fb2b6d85debe"/>
+    <recordManagerType typeId="dff05236-dadd-5179-a877-24e91c092b6f" valueTypeId="2aa02bd9-ed4d-5ca6-8fb5-1a3643266077"/>
+  </producedTypes>
+  <name>ШаблоныЗаказов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Шаблоны заказов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="7f059d3e-cfb0-5db8-8f4e-c22088540515">
+    <name>Количество</name>
+    <synonym>
+      <key>ru</key>
+      <value>Количество</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>3</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <dimensions uuid="f8809d74-9926-57e3-8c3a-822f030216d6">
+    <name>Клиент</name>
+    <synonym>
+      <key>ru</key>
+      <value>Клиент</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Клиенты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <dimensions uuid="acf293c6-56d5-5f5f-a024-3ee288c70777">
+    <name>Продукция</name>
+    <synonym>
+      <key>ru</key>
+      <value>Продукция</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ПродукцияИМатериалы</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>

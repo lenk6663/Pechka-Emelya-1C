@@ -22,4 +22,5 @@
   <content>Catalog.Сотрудники</content>
   <content>CommonModule.РаботаСПользователями</content>
   <content>InformationRegister.ЦеныПродукции</content>
+  <content>InformationRegister.ШаблоныЗаказов</content>
 </mdclass:Subsystem>
