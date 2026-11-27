@@ -61,4 +61,5 @@
   <enums>Enum.ЕдиницыИзмерения</enums>
   <enums>Enum.УровниДоступа</enums>
   <informationRegisters>InformationRegister.ЦеныПродукции</informationRegisters>
+  <informationRegisters>InformationRegister.ШаблоныЗаказов</informationRegisters>
 </mdclass:Configuration>
