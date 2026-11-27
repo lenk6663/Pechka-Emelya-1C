@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="44b64707-8095-4505-aa57-762964ab3c6e">
+  <name>ПечкаЕмеля</name>
+  <synonym>
+    <key>ru</key>
+    <value>Печка Емеля</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="cb27e03a-0aa1-4f88-b009-1da892cfe0d5"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="106b81de-5e3e-4253-be3f-1b0ccbb93edf"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="b3fa88ec-5c5a-4f01-ac31-380228074c59"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="803e789c-2621-4453-8f8a-6129a78b5cb8"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="a1928038-8d6f-4c0c-917c-f1ac068c07a3"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="f275d8cc-f30b-45a7-bd3a-5cefcc636813"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="d06988dc-1515-4734-99cb-8c6bfff03cdf"/>
+  <configurationExtensionCompatibilityMode>8.3.27</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.27</compatibilityMode>
+  <languages uuid="e6cf66bd-dd32-4546-ac87-b137731ebcb2">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.ИнформацияОПредприятии</subsystems>
+  <constants>Constant.НаименованиеПредприятия</constants>
+  <constants>Constant.ИННКПППредприятия</constants>
+  <constants>Constant.АдресПредприятия</constants>
+  <commonForms>CommonForm.СведенияОПредприятии</commonForms>
+  <catalogs>Catalog.ПодразделенияОрганизации</catalogs>
+  <catalogs>Catalog.Маршруты</catalogs>
+  <catalogs>Catalog.Клиенты</catalogs>
+  <catalogs>Catalog.ПродукцияИМатериалы</catalogs>
+  <catalogs>Catalog.ТранспортныеСредства</catalogs>
+  <enums>Enum.ВидыНоменклатуры</enums>
+  <enums>Enum.ЕдиницыИзмерения</enums>
+</mdclass:Configuration>

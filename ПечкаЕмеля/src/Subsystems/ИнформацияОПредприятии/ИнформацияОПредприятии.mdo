@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6a470f51-f492-55f8-9202-d97f2f1946fd">
+  <name>ИнформацияОПредприятии</name>
+  <synonym>
+    <key>ru</key>
+    <value>Информация о предприятии</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Constant.НаименованиеПредприятия</content>
+  <content>Constant.ИННКПППредприятия</content>
+  <content>Constant.АдресПредприятия</content>
+  <content>CommonForm.СведенияОПредприятии</content>
+  <content>Catalog.ПодразделенияОрганизации</content>
+  <content>Catalog.Маршруты</content>
+  <content>Catalog.Клиенты</content>
+  <content>Enum.ВидыНоменклатуры</content>
+  <content>Enum.ЕдиницыИзмерения</content>
+  <content>Catalog.ПродукцияИМатериалы</content>
+  <content>Catalog.ТранспортныеСредства</content>
+</mdclass:Subsystem>

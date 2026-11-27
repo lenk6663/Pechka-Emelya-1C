@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cef96fe3-7e36-5bbf-968f-437cd39bf44a">
+  <producedTypes>
+    <objectType typeId="47ca5297-b92c-551c-9ea6-e02ff9660824" valueTypeId="887b069a-de39-5850-bd78-7016f3b327b3"/>
+    <refType typeId="b188d0b1-ea62-5de5-aed6-f34c98b1db1a" valueTypeId="a41b493c-938a-57ac-b9fd-91a73713c052"/>
+    <selectionType typeId="16c72e9d-2ce6-524c-be44-90e25272307e" valueTypeId="09cdc388-0bee-5ce2-ac41-4d72ba65c2f6"/>
+    <listType typeId="04baefef-6d9b-5353-b48d-127fa34a9caf" valueTypeId="7614ddbd-a0dc-58c3-8467-8ffb00d3fcd2"/>
+    <managerType typeId="458ed8e6-b2e9-5513-9751-47abe69cb72e" valueTypeId="a4ee43e6-6a0f-5443-9353-989452a53d2b"/>
+  </producedTypes>
+  <name>Маршруты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Маршруты (районы)</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Маршруты.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Маршруты.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>100</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
