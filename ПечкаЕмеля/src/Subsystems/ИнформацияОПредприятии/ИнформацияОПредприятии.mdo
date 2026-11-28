@@ -23,4 +23,6 @@
   <content>CommonModule.РаботаСПользователями</content>
   <content>InformationRegister.ЦеныПродукции</content>
   <content>InformationRegister.ШаблоныЗаказов</content>
+  <content>CommonModule.ЗаказыСервер</content>
+  <content>Document.ЗаказКлиента</content>
 </mdclass:Subsystem>

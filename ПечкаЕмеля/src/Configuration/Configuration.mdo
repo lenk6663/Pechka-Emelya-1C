@@ -47,6 +47,7 @@
   <roles>Role.Бухгалтер</roles>
   <roles>Role.Экспедитор</roles>
   <commonModules>CommonModule.РаботаСПользователями</commonModules>
+  <commonModules>CommonModule.ЗаказыСервер</commonModules>
   <constants>Constant.НаименованиеПредприятия</constants>
   <constants>Constant.ИННКПППредприятия</constants>
   <constants>Constant.АдресПредприятия</constants>
@@ -57,6 +58,7 @@
   <catalogs>Catalog.ПродукцияИМатериалы</catalogs>
   <catalogs>Catalog.ТранспортныеСредства</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <documents>Document.ЗаказКлиента</documents>
   <enums>Enum.ВидыНоменклатуры</enums>
   <enums>Enum.ЕдиницыИзмерения</enums>
   <enums>Enum.УровниДоступа</enums>
