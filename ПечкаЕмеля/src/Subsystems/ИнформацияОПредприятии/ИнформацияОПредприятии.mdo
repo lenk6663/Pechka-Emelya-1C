@@ -25,4 +25,5 @@
   <content>InformationRegister.ШаблоныЗаказов</content>
   <content>CommonModule.ЗаказыСервер</content>
   <content>Document.ЗаказКлиента</content>
+  <content>DataProcessor.РабочееМестоМенеджераЗаказов</content>
 </mdclass:Subsystem>
